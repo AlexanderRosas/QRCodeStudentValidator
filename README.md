@@ -41,7 +41,7 @@ QR Code Student Validator es una aplicación Android que escanea códigos QR par
 -Apunta la cámara hacia el código QR.
 -La aplicación mostrará un mensaje y una imagen indicando si el código QR es válido, requiere revisión o es inválido.
 
-##Estructura del Proyecto
+## Estructura del Proyecto
 -MainActivity.kt: Contiene la lógica principal para escanear y validar códigos QR.
 -QRScannerScreen.kt: Composable que define la interfaz de usuario.
 -res/: Contiene los recursos de la aplicación, incluyendo las imágenes para cada estado de validación.
